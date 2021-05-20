@@ -1,2 +1,5 @@
-# recriando_pagina_instagram
-Desafio de recriar a página inicial do Instagram
+# Recriando a página inicial do Instagram.
+
+Desafio de recriar a página inicial do Instagram. Simples, mas desafiador.
+
+Confiram!!
